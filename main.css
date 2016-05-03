@@ -1,0 +1,17 @@
+
+.panel-heading {
+
+	padding: 1em 1em;
+}
+
+#addButtonDiv {
+	margin-top: 1em;
+}
+
+input {
+	border-radius: 3px;
+}
+
+button {
+	float: right;
+}

@@ -1,0 +1,24 @@
+{
+  "name": "06-SanDiegoTopSpots",
+  "main": "index.js",
+  "authors": [
+    "Nick Casey"
+  ],
+  "description": "nps install gulp-inject wiredep gulp-livereload gul-connect gulp-open gulp-util",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.3",
+    "angular": "^1.5.5",
+    "bootstrap": "^3.3.6",
+    "highmaps": "map#^4.2.4",
+    "ngmap": "^1.17.3"
+  }
+}
